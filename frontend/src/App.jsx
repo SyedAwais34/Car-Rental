@@ -15,7 +15,7 @@ import SearchBar from './components/SearchBar'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import BestSeller from './components/BestSeller'
-import Form from './pages/form'
+import Form from "./pages/Form";
 
 export const backendUrl = import.meta.env.VITE_BACKEND_URL
 
